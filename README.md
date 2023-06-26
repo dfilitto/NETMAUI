@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dfilitto/UnrealJogoAdivinhacao/main/Sprites/Capa.jpg)
+![](https://raw.githubusercontent.com/dfilitto/NETMAUI/main/Maui%20Curso.jpg)
 
 # Jogo da adivinhação
 
